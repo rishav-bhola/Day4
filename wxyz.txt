@@ -1,0 +1,2 @@
+Hello, How are you
+Note that this content is saved to abcd.txt file
